@@ -6,16 +6,16 @@ This Section of the Open Source Society University is broken up into the followi
 
 - Introduction to Computer Science
 - Core CS
-    Programming
-    Math
-    Systems
-    Theory
-    Applications
+-    Programming
+-    Math
+-    Systems
+-    Theory
+-    Applications
 - Advanced CS
-    Programming
-    Math
-    Systems
-    Theory
-    Applications
+-    Programming
+-    Math
+-    Systems
+-    Theory
+-    Applications
 - Final Project
 - Pro CS
